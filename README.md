@@ -1,4 +1,4 @@
-# Proyecto
+# Cuenta_Bancaria
 
 Programa Java executable
 
