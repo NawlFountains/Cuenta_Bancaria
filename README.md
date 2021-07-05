@@ -1,6 +1,6 @@
 # Cuenta_Bancaria
 
-Programa Java executable
+Programa Java ejecutable
 
 Para ingresar al programa se debe ingresar
 su apellido sin mayusculas y la contrasena
